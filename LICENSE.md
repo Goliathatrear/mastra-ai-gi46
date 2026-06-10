@@ -1,4 +1,4 @@
-# 
+# Nuevo Mastra plugins. Con autonomía de agentes y pipelines de datos — optimizado para el máximo rendimiento y eficiencia.
 
 
 
